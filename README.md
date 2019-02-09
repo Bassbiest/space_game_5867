@@ -15,3 +15,7 @@ A rather unconventional idea would be to just give orders and have your crew exe
 
 ## Universe 
 The universe consists of systems with different opportunities (different levels of danger, different goods etc.) 
+
+
+
+https://inventwithpython.com/makinggames.pdf
